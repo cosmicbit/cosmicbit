@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Smart Traffic Management System**
 
 - 🌱 I’m currently learning **Deep Learning**
-- ⚡ Pursuing **BTech Computer** Science at College Of Engineering Kidangoor
+- ⚡ Pursuing **BTech Computer Science** at College Of Engineering Kidangoor
 
 - 📫 How to reach me **philipsjose20@gmail.com**
 
