@@ -26,6 +26,7 @@
 
 
 <h3>Github Stats</h3>
+
 <table>
   <tr>
     <td align="center" width="50%">
