@@ -6,7 +6,6 @@
   <li>I’m currently learning Swift</li>
 </ul>
 </div>
-
 <h3>You can connect with me on:-</h3>
 <div>
   <a href="https://linkedin.com/in/philips-jose-a5a6a8226">
