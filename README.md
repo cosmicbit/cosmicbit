@@ -1,6 +1,5 @@
 <h1 align="center"> Hello, I'm Philips Jose 🙋‍♂️</h1>
 <div>
-  
 <ul>
   <li>I’m currently developing skills for job</li>
   <li>I’m currently learning Swift</li>
