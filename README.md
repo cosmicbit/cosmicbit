@@ -1,8 +1,8 @@
 <h1 align="center"> Hello, I'm Philips Jose 🙋‍♂️</h1>
 <div>
 <ul>
-  <li>I’m currently developing skills for job</li>
-  <li>I’m currently learning Swift</li>
+  <li>I’m currently focusing on my job</li>
+  <li>I’m currently learning UIKit</li>
 </ul>
 </div>
 <h3>You can connect with me on:-</h3>
