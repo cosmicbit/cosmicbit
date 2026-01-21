@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Philips Jose</h1>
-
 <div>
 <ul>
   <li>I’m currently focusing on my job</li>
