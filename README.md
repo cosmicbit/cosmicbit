@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Description of image">
 </div>
 
-
 <h3>Github Stats</h3>
 
 <table>
