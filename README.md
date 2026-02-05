@@ -10,9 +10,6 @@
   <a href="https://linkedin.com/in/philips-jose-a5a6a8226">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Description of image">
   </a>
-  <a href="https://stackoverflow.com/users/17489903">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Description of image">
-  </a>
 </div>
 <h3>Tech Stack</h3>
 <div>
