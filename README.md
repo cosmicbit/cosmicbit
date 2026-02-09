@@ -39,9 +39,4 @@
       <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=cosmicbit&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
     </td>
   </tr>
-  <tr >
-    <td align="center" width="100%" colspan="2">
-      <img src="https://github-contributor-stats.vercel.app/api?username=cosmicbit&limit=5&theme=dark&combine_all_yearly_contributions=true">
-    </td>
-  </tr>
 </table>
