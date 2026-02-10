@@ -7,7 +7,6 @@
 </ul>
 
 </div>
-
 <h3>You can connect with me on:-</h3>
 
 <div>
