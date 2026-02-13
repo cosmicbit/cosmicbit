@@ -5,7 +5,6 @@
   <li>I’m currently focusing on my job</li>
   <li>I’m currently learning UIKit</li>
 </ul>
-
 </div>
 <h3>You can connect with me on:-</h3>
 
