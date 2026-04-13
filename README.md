@@ -8,7 +8,6 @@
 </div>
 <h3>You can connect with me on:-</h3>
 
-
 <div>
   <a href="https://linkedin.com/in/philips-jose-a5a6a8226">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Description of image">
